@@ -29,3 +29,5 @@ This notebook covers the process of hyperparameter tuning for various machine le
 * **Dataset:** The dataset used in these analyses is sourced from the California housing dataset, which includes various features such as median income, house age, and geographical data.
 * **Tools and Libraries:** The notebooks utilize Python libraries such as pandas, numpy, matplotlib, seaborn, scikit-learn, and others for data processing, visualization, and modeling.
 * **Objective:** The primary objective is to explore, visualize, and model the California housing data to provide actionable insights and accurate predictions for stakeholders and decision-makers.
+
+Feel free to explore the notebooks and the insights they offer about the California housing market. Contributions and suggestions are welcome!
